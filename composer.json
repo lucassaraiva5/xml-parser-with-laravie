@@ -1,0 +1,19 @@
+{
+    "name": "lucassaraiva5/xml-parser-with-laravie-parser",
+    "type": "project",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Lucassaraiva5\\XmlParserWithLaravieParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Saraiva",
+            "email": "lucassaraiva5@hotmail.com"
+        }
+    ],
+    "require": {
+        "laravie/parser": "^2.0"
+    }
+}
